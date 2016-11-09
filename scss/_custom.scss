@@ -1,0 +1,11 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+
+//FONTS
+$enable-flex:               true !default;
+$enable-rounded:            false !default;
+$font-family-sans-serif: Karla, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-serif:      "Droid Serif", Georgia, "Times New Roman", Times, serif !default;
